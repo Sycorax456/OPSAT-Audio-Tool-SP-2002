@@ -23,7 +23,7 @@ Esta herramienta permite interactuar con los archivos internos del juego a trav�
 
 ## 🚀 Requisitos y Uso
 
-Asegúrate de tener instalado **Python 3.x** en tu sistema[cite: 2]. Puedes iniciar la interfaz gráfica ejecutando el siguiente comando en tu terminal:
+Asegúrate de tener instalado **Python 3.x** en tu sistema. Puedes iniciar la interfaz gráfica ejecutando el siguiente comando en tu terminal:
 
 ```bash
 python sc1_gui.py
