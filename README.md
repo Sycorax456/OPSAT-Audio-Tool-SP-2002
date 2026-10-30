@@ -6,7 +6,7 @@ Extracts and Imports Audio fIles from Splinter Cell 2002
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Un conjunto de utilidades diseñadas en Python para explorar, extraer y manipular los recursos del clásico **Tom Clancy's Splinter Cell (2002)**[cite: 2].
+Un conjunto de utilidades diseñadas en Python para explorar, extraer y manipular los recursos del clásico **Tom Clancy's Splinter Cell (2002)**.
 
 ---
 
